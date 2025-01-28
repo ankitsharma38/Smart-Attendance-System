@@ -6,9 +6,9 @@ const App = () => {
   return (
     <div>
       <h1>Smart Attendance System</h1>
-      <CameraFeed />
+      {/* <CameraFeed /> */}
       <h2>Attendance Records</h2>
-      <AttendanceTable />
+      {/* <AttendanceTable /> */}
     </div>
   );
 };
